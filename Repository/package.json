@@ -1,6 +1,6 @@
 {
   "name": "com.sibyl.statemachine",
-  "version": "0.1.0",
+  "version": "1.0.0-preview1",
   "displayName": "Unity StateMachine",
   "description": "Unity 状态机",
   "unity": "2022.3",

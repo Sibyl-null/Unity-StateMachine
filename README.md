@@ -1,2 +1,3 @@
 # Unity-StateMachine
-Unity 状态机
+## 插件导入
+github: `https://github.com/Sibyl-null/Unity-StateMachine.git?path=Repository`
